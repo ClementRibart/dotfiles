@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clement.ribart@gmail.com
+	name = Clement Ribart
